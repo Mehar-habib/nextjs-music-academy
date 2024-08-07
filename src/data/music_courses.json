@@ -1,0 +1,105 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Introduction to Programming",
+            "slug": "intro-to-programming",
+            "description": "A beginner's guide to the fundamentals of programming.",
+            "price": 99.99,
+            "instructor": "Jane Doe",
+            "isFeatured": true,
+            "image": "https://example.com/images/intro-to-programming.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Advanced Web Development",
+            "slug": "advanced-web-development",
+            "description": "Deep dive into advanced techniques in web development.",
+            "price": 149.99,
+            "instructor": "John Smith",
+            "isFeatured": false,
+            "image": "https://example.com/images/advanced-web-development.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Data Science Bootcamp",
+            "slug": "data-science-bootcamp",
+            "description": "An intensive course covering data science fundamentals and advanced topics.",
+            "price": 299.99,
+            "instructor": "Alice Johnson",
+            "isFeatured": true,
+            "image": "https://example.com/images/data-science-bootcamp.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Machine Learning Basics",
+            "slug": "machine-learning-basics",
+            "description": "Learn the basics of machine learning and its applications.",
+            "price": 129.99,
+            "instructor": "Robert Brown",
+            "isFeatured": false,
+            "image": "https://example.com/images/machine-learning-basics.jpg"
+        },
+        {
+            "id": 5,
+            "title": "UI/UX Design Principles",
+            "slug": "ui-ux-design-principles",
+            "description": "Understand the core principles of UI/UX design to create user-friendly interfaces.",
+            "price": 89.99,
+            "instructor": "Emily Davis",
+            "isFeatured": true,
+            "image": "https://example.com/images/ui-ux-design-principles.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Cybersecurity Essentials",
+            "slug": "cybersecurity-essentials",
+            "description": "Explore the fundamental concepts of cybersecurity and how to protect systems.",
+            "price": 109.99,
+            "instructor": "Michael Wilson",
+            "isFeatured": false,
+            "image": "https://example.com/images/cybersecurity-essentials.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Database Management Systems",
+            "slug": "database-management-systems",
+            "description": "A comprehensive guide to managing and optimizing database systems.",
+            "price": 139.99,
+            "instructor": "Sarah Lewis",
+            "isFeatured": true,
+            "image": "https://example.com/images/database-management-systems.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Cloud Computing Fundamentals",
+            "slug": "cloud-computing-fundamentals",
+            "description": "Introduction to cloud computing technologies and their use cases.",
+            "price": 119.99,
+            "instructor": "David Martinez",
+            "isFeatured": false,
+            "image": "https://example.com/images/cloud-computing-fundamentals.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Blockchain Technology",
+            "slug": "blockchain-technology",
+            "description": "Learn about the principles and applications of blockchain technology.",
+            "price": 159.99,
+            "instructor": "Linda Clark",
+            "isFeatured": true,
+            "image": "https://example.com/images/blockchain-technology.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Digital Marketing Strategies",
+            "slug": "digital-marketing-strategies",
+            "description": "Develop effective digital marketing strategies to boost online presence.",
+            "price": 89.99,
+            "instructor": "Daniel Harris",
+            "isFeatured": false,
+            "image": "https://example.com/images/digital-marketing-strategies.jpg"
+        }
+    ]
+    
+}
