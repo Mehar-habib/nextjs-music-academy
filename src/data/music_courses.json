@@ -8,7 +8,7 @@
           "price": 49.99,
           "instructor": "John Smith",
           "isFeatured": true,
-          "image": "https://example.com/images/guitar_basics.jpg"
+          "image": "https://plus.unsplash.com/premium_photo-1683140707316-42df87760f3f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id": 2,
@@ -17,8 +17,8 @@
           "description": "Elevate your piano skills with advanced techniques and compositions.",
           "price": 79.99,
           "instructor": "Emily Johnson",
-          "isFeatured": false,
-          "image": "https://example.com/images/piano_advanced.jpg"
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/photo-1471478331149-c72f17e33c73?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id": 3,
@@ -28,7 +28,7 @@
           "price": 89.99,
           "instructor": "Michael Lee",
           "isFeatured": true,
-          "image": "https://example.com/images/electronic_music.jpg"
+          "image": "https://plus.unsplash.com/premium_photo-1664302427357-40eb7c8fd3c0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id": 4,
@@ -37,8 +37,8 @@
           "description": "Master the art of jazz improvisation with essential techniques and practices.",
           "price": 69.99,
           "instructor": "Sarah Davis",
-          "isFeatured": false,
-          "image": "https://example.com/images/jazz_improvisation.jpg"
+          "isFeatured": true,
+          "image": "https://plus.unsplash.com/premium_photo-1682125853703-896a05629709?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id": 5,
@@ -48,7 +48,7 @@
           "price": 99.99,
           "instructor": "Robert Wilson",
           "isFeatured": true,
-          "image": "https://example.com/images/violin_classical.jpg"
+          "image": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id": 6,
@@ -57,8 +57,8 @@
           "description": "Create and produce your own hip-hop beats with this in-depth course.",
           "price": 59.99,
           "instructor": "Laura Brown",
-          "isFeatured": false,
-          "image": "https://example.com/images/hiphop_beat.jpg"
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id": 7,
@@ -68,7 +68,7 @@
           "price": 39.99,
           "instructor": "David Harris",
           "isFeatured": true,
-          "image": "https://example.com/images/music_theory.jpg"
+          "image": "https://images.unsplash.com/photo-1483032469466-b937c425697b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id": 8,
@@ -77,8 +77,8 @@
           "description": "Develop your vocal skills with foundational exercises and techniques.",
           "price": 49.99,
           "instructor": "Jessica Martinez",
-          "isFeatured": false,
-          "image": "https://example.com/images/vocal_training.jpg"
+          "isFeatured": true,
+          "image": "https://images.unsplash.com/photo-1483069125343-4ef290c07840?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id": 9,
@@ -88,7 +88,7 @@
           "price": 54.99,
           "instructor": "James Anderson",
           "isFeatured": true,
-          "image": "https://example.com/images/acoustic_fingerstyle.jpg"
+          "image": "https://images.unsplash.com/photo-1482443462550-d2c99314ab6a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
           "id": 10,
@@ -97,8 +97,8 @@
           "description": "Craft compelling songs and compositions with this comprehensive guide.",
           "price": 64.99,
           "instructor": "Natalie White",
-          "isFeatured": false,
-          "image": "https://example.com/images/songwriting.jpg"
+          "isFeatured": true,
+          "image": "https://plus.unsplash.com/premium_photo-1682201793962-1fb93c8261e4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
       ]      
 }
