@@ -1,105 +1,104 @@
 {
     "courses": [
         {
-            "id": 1,
-            "title": "Introduction to Programming",
-            "slug": "intro-to-programming",
-            "description": "A beginner's guide to the fundamentals of programming.",
-            "price": 99.99,
-            "instructor": "Jane Doe",
-            "isFeatured": true,
-            "image": "https://example.com/images/intro-to-programming.jpg"
+          "id": 1,
+          "title": "Mastering Guitar Basics",
+          "slug": "mastering-guitar-basics",
+          "description": "A comprehensive course for beginners to learn guitar techniques and basics.",
+          "price": 49.99,
+          "instructor": "John Smith",
+          "isFeatured": true,
+          "image": "https://example.com/images/guitar_basics.jpg"
         },
         {
-            "id": 2,
-            "title": "Advanced Web Development",
-            "slug": "advanced-web-development",
-            "description": "Deep dive into advanced techniques in web development.",
-            "price": 149.99,
-            "instructor": "John Smith",
-            "isFeatured": false,
-            "image": "https://example.com/images/advanced-web-development.jpg"
+          "id": 2,
+          "title": "Advanced Piano Techniques",
+          "slug": "advanced-piano-techniques",
+          "description": "Elevate your piano skills with advanced techniques and compositions.",
+          "price": 79.99,
+          "instructor": "Emily Johnson",
+          "isFeatured": false,
+          "image": "https://example.com/images/piano_advanced.jpg"
         },
         {
-            "id": 3,
-            "title": "Data Science Bootcamp",
-            "slug": "data-science-bootcamp",
-            "description": "An intensive course covering data science fundamentals and advanced topics.",
-            "price": 299.99,
-            "instructor": "Alice Johnson",
-            "isFeatured": true,
-            "image": "https://example.com/images/data-science-bootcamp.jpg"
+          "id": 3,
+          "title": "Electronic Music Production",
+          "slug": "electronic-music-production",
+          "description": "Learn to create professional electronic music using modern software tools.",
+          "price": 89.99,
+          "instructor": "Michael Lee",
+          "isFeatured": true,
+          "image": "https://example.com/images/electronic_music.jpg"
         },
         {
-            "id": 4,
-            "title": "Machine Learning Basics",
-            "slug": "machine-learning-basics",
-            "description": "Learn the basics of machine learning and its applications.",
-            "price": 129.99,
-            "instructor": "Robert Brown",
-            "isFeatured": false,
-            "image": "https://example.com/images/machine-learning-basics.jpg"
+          "id": 4,
+          "title": "Jazz Improvisation Essentials",
+          "slug": "jazz-improvisation-essentials",
+          "description": "Master the art of jazz improvisation with essential techniques and practices.",
+          "price": 69.99,
+          "instructor": "Sarah Davis",
+          "isFeatured": false,
+          "image": "https://example.com/images/jazz_improvisation.jpg"
         },
         {
-            "id": 5,
-            "title": "UI/UX Design Principles",
-            "slug": "ui-ux-design-principles",
-            "description": "Understand the core principles of UI/UX design to create user-friendly interfaces.",
-            "price": 89.99,
-            "instructor": "Emily Davis",
-            "isFeatured": true,
-            "image": "https://example.com/images/ui-ux-design-principles.jpg"
+          "id": 5,
+          "title": "Classical Violin Mastery",
+          "slug": "classical-violin-mastery",
+          "description": "Achieve mastery in classical violin with expert guidance and lessons.",
+          "price": 99.99,
+          "instructor": "Robert Wilson",
+          "isFeatured": true,
+          "image": "https://example.com/images/violin_classical.jpg"
         },
         {
-            "id": 6,
-            "title": "Cybersecurity Essentials",
-            "slug": "cybersecurity-essentials",
-            "description": "Explore the fundamental concepts of cybersecurity and how to protect systems.",
-            "price": 109.99,
-            "instructor": "Michael Wilson",
-            "isFeatured": false,
-            "image": "https://example.com/images/cybersecurity-essentials.jpg"
+          "id": 6,
+          "title": "Hip-Hop Beat Making",
+          "slug": "hip-hop-beat-making",
+          "description": "Create and produce your own hip-hop beats with this in-depth course.",
+          "price": 59.99,
+          "instructor": "Laura Brown",
+          "isFeatured": false,
+          "image": "https://example.com/images/hiphop_beat.jpg"
         },
         {
-            "id": 7,
-            "title": "Database Management Systems",
-            "slug": "database-management-systems",
-            "description": "A comprehensive guide to managing and optimizing database systems.",
-            "price": 139.99,
-            "instructor": "Sarah Lewis",
-            "isFeatured": true,
-            "image": "https://example.com/images/database-management-systems.jpg"
+          "id": 7,
+          "title": "Music Theory Fundamentals",
+          "slug": "music-theory-fundamentals",
+          "description": "Understand the basics of music theory to enhance your composition and performance skills.",
+          "price": 39.99,
+          "instructor": "David Harris",
+          "isFeatured": true,
+          "image": "https://example.com/images/music_theory.jpg"
         },
         {
-            "id": 8,
-            "title": "Cloud Computing Fundamentals",
-            "slug": "cloud-computing-fundamentals",
-            "description": "Introduction to cloud computing technologies and their use cases.",
-            "price": 119.99,
-            "instructor": "David Martinez",
-            "isFeatured": false,
-            "image": "https://example.com/images/cloud-computing-fundamentals.jpg"
+          "id": 8,
+          "title": "Vocal Training for Beginners",
+          "slug": "vocal-training-for-beginners",
+          "description": "Develop your vocal skills with foundational exercises and techniques.",
+          "price": 49.99,
+          "instructor": "Jessica Martinez",
+          "isFeatured": false,
+          "image": "https://example.com/images/vocal_training.jpg"
         },
         {
-            "id": 9,
-            "title": "Blockchain Technology",
-            "slug": "blockchain-technology",
-            "description": "Learn about the principles and applications of blockchain technology.",
-            "price": 159.99,
-            "instructor": "Linda Clark",
-            "isFeatured": true,
-            "image": "https://example.com/images/blockchain-technology.jpg"
+          "id": 9,
+          "title": "Acoustic Guitar Fingerstyle",
+          "slug": "acoustic-guitar-fingerstyle",
+          "description": "Learn the art of fingerstyle guitar with practical lessons and examples.",
+          "price": 54.99,
+          "instructor": "James Anderson",
+          "isFeatured": true,
+          "image": "https://example.com/images/acoustic_fingerstyle.jpg"
         },
         {
-            "id": 10,
-            "title": "Digital Marketing Strategies",
-            "slug": "digital-marketing-strategies",
-            "description": "Develop effective digital marketing strategies to boost online presence.",
-            "price": 89.99,
-            "instructor": "Daniel Harris",
-            "isFeatured": false,
-            "image": "https://example.com/images/digital-marketing-strategies.jpg"
+          "id": 10,
+          "title": "Songwriting and Composition",
+          "slug": "songwriting-and-composition",
+          "description": "Craft compelling songs and compositions with this comprehensive guide.",
+          "price": 64.99,
+          "instructor": "Natalie White",
+          "isFeatured": false,
+          "image": "https://example.com/images/songwriting.jpg"
         }
-    ]
-    
+      ]      
 }
