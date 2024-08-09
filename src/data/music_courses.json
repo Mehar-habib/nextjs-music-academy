@@ -57,7 +57,7 @@
           "description": "Create and produce your own hip-hop beats with this in-depth course.",
           "price": 59.99,
           "instructor": "Laura Brown",
-          "isFeatured": true,
+          "isFeatured": false,
           "image": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
@@ -67,7 +67,7 @@
           "description": "Understand the basics of music theory to enhance your composition and performance skills.",
           "price": 39.99,
           "instructor": "David Harris",
-          "isFeatured": true,
+          "isFeatured": false,
           "image": "https://images.unsplash.com/photo-1483032469466-b937c425697b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
