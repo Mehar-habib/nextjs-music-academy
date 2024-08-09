@@ -1,5 +1,6 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import TestimonialCard from "@/components/TestimonialCard";
 import WhyChoseUs from "@/components/WhyChoseUs";
 import React from "react";
 
@@ -9,6 +10,7 @@ function page() {
       <HeroSection />
       <FeaturedCourses />
       <WhyChoseUs />
+      <TestimonialCard />
     </main>
   );
 }
