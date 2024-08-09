@@ -1,5 +1,6 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import Instructors from "@/components/Instructors";
 import TestimonialCard from "@/components/TestimonialCard";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import WhyChoseUs from "@/components/WhyChoseUs";
@@ -13,6 +14,7 @@ function page() {
       <WhyChoseUs />
       <TestimonialCard />
       <UpcomingWebinars />
+      <Instructors />
     </main>
   );
 }
