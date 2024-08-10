@@ -50,28 +50,9 @@
           "isFeatured": true,
           "image": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
+       
         {
           "id": 6,
-          "title": "Hip-Hop Beat Making",
-          "slug": "hip-hop-beat-making",
-          "description": "Create and produce your own hip-hop beats with this in-depth course.",
-          "price": 59.99,
-          "instructor": "Laura Brown",
-          "isFeatured": false,
-          "image": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-          "id": 7,
-          "title": "Music Theory Fundamentals",
-          "slug": "music-theory-fundamentals",
-          "description": "Understand the basics of music theory to enhance your composition and performance skills.",
-          "price": 39.99,
-          "instructor": "David Harris",
-          "isFeatured": false,
-          "image": "https://images.unsplash.com/photo-1483032469466-b937c425697b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-          "id": 8,
           "title": "Vocal Training for Beginners",
           "slug": "vocal-training-for-beginners",
           "description": "Develop your vocal skills with foundational exercises and techniques.",
@@ -81,7 +62,7 @@
           "image": "https://images.unsplash.com/photo-1483069125343-4ef290c07840?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": 9,
+          "id": 7,
           "title": "Acoustic Guitar Fingerstyle",
           "slug": "acoustic-guitar-fingerstyle",
           "description": "Learn the art of fingerstyle guitar with practical lessons and examples.",
@@ -91,7 +72,7 @@
           "image": "https://images.unsplash.com/photo-1482443462550-d2c99314ab6a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
-          "id": 10,
+          "id": 8,
           "title": "Songwriting and Composition",
           "slug": "songwriting-and-composition",
           "description": "Craft compelling songs and compositions with this comprehensive guide.",
